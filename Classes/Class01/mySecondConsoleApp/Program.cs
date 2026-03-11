@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("     *\r\n    ***\r\n     *\r\n    * *\r\n   *   *\r\n");
